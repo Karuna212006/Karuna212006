@@ -1,146 +1,54 @@
-<h1 align="center">Hi 👋, I'm Karunakaran</h1>
+# <h1 align="center">Hi 👋, I'm Karunakaran</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Java+Developer;MERN+Stack+Learner;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Student;Java+Developer;Machine+Learning+Enthusiast;MERN+Stack+Learner;Cloud+%26+DevOps+Explorer"/>
 </p>
 
 ---
 
+## 🌐 Socials
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karuna212006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/karuna001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:karunakaraguru2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 Current Status
 
-<p align="center">
-<a href="https://www.linkedin.com/in/karuna001">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:karunakaraguru2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/NOAHKARUNA/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Current Status
-
-- 📚 Mastering Data Structures & Algorithms (Java)
+- 💻 Mastering Data Structures & Algorithms (Java)
 - 🤖 Building AI & Machine Learning Projects
 - ⚛️ Learning the MERN Stack
 - 🐳 Exploring Docker, Kubernetes & Cloud Computing
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,sqlite,git,github,docker,kubernetes,tensorflow,opencv,sklearn,flask,fastapi,vscode&perline=8"/>
 </p>
 
 ---
 
-### Frontend
+## 💻 Coding Profile
 
-<p>
+<p align="center">
+<a href="https://leetcode.com/u/NOAHKARUNA/">
+<img src="https://img.shields.io/badge/LeetCode-NOAHKARUNA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+## 📈 LeetCode Stats
 
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/NOAHKARUNA?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
 
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-</p>
-
----
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-</p>
-
----
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -152,12 +60,40 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Karuna212006&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karuna212006&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+<img width="900" src="https://raw.githubusercontent.com/Karuna212006/Karuna212006/main/github-metrics.svg"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Karuna212006/Karuna212006/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Karuna212006&style=for-the-badge&color=0e75b6"/>
+</p>
